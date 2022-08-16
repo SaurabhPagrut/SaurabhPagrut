@@ -26,7 +26,7 @@
 </p><br>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/saurabhpagrut"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saurabhpagrut" /></a></p><br><br><br>
+<p><a href="https://www.buymeacoffee.com/saurabhpagrut"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saurabhpagrut" /></a></p><br><br><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhpagrut&show_icons=true&locale=en" alt="saurabhpagrut" /></p><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhpagrut&show_icons=true&locale=en&layout=compact" alt="saurabhpagrut" /></p><br><br><br><br><br><br><br>
