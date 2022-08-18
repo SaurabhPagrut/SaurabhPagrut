@@ -46,6 +46,6 @@
 </p><br><br><br>
 
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpagrut&theme=radical" alt="saurabhpagrut" width="48%"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=saurabhpagrut&show_icons=true&locale=en&theme=radical" alt="saurabhpagrut" width="48%"/><br><br><br><br><br><br><br><br><br><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhpagrut&show_icons=true&locale=en&theme=radical" alt="saurabhpagrut" width="30%"/><img align="right" src="https://activity-graph.herokuapp.com/graph?username=saurabhpagrut&theme=react-dark" alt="saurabhpagrut" width="66%"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpagrut&theme=radical" alt="saurabhpagrut" width="47%"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=saurabhpagrut&show_icons=true&locale=en&theme=radical" alt="saurabhpagrut" width="47%"/><br><br><br><br><br><br><br><br><br><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhpagrut&show_icons=true&locale=en&theme=radical" alt="saurabhpagrut" width="29%"/><img align="right" src="https://activity-graph.herokuapp.com/graph?username=saurabhpagrut&theme=react-dark" alt="saurabhpagrut" width="65%"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
