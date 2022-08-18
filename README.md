@@ -30,8 +30,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/saurabhpagrut"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saurabhpagrut" /></a></p><br><br><br><br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=saurabhpagrut&show_icons=true&locale=en&theme=radical" alt="saurabhpagrut"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpagrut&theme=radical" alt="saurabhpagrut"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=saurabhpagrut&show_icons=true&locale=en&theme=radical" alt="saurabhpagrut" height="170"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpagrut&theme=radical" alt="saurabhpagrut" height="170"/>
 
 <br><br><br><br><br><br><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhpagrut&show_icons=true&locale=en&theme=radical" alt="saurabhpagrut" />
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
