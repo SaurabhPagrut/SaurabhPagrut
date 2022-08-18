@@ -1,3 +1,4 @@
+
 <img src="https://media.giphy.com/media/fekO5nGSrl3RJ885ch/giphy.gif" width="100%">
 <h1 align="center">Hey🧐, My name’s Saurabh, I’m 22</h1>
 <h3 align="center">A passionate backend developer from India</h3>
@@ -29,7 +30,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/saurabhpagrut"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saurabhpagrut" /></a></p><br><br><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhpagrut&show_icons=true&locale=en" alt="saurabhpagrut" /></p><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhpagrut&show_icons=true&locale=en&layout=compact" alt="saurabhpagrut" /></p><br><br><br><br><br><br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpagrut&" alt="saurabhpagrut" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=saurabhpagrut&show_icons=true&locale=en&theme=radical" alt="saurabhpagrut"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpagrut&theme=radical" alt="saurabhpagrut"/>
+
+<br><br><br><br><br><br><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhpagrut&show_icons=true&locale=en&theme=radical" alt="saurabhpagrut" />
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
