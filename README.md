@@ -10,9 +10,9 @@
 
 - 📫 How to reach me **getsaurabhpagrut@gmail.com**
 
-- 📄 Know about my experiences [See Resume](https://drive.google.com/file/d/1tArtwM-3Os8AoPloVjTu6M1E6mrcjCZ6/view?usp=sharing)
+- 📄 Know about my experiences [See Resume.](https://drive.google.com/file/d/1tArtwM-3Os8AoPloVjTu6M1E6mrcjCZ6/view?usp=sharing)
 
-- 👨🏻‍🔧 Want to know more about me checkout my [Portfolio](https://saurabh-pagrut-portfolio.netlify.app/)
+- 👨🏻‍🔧 Want to know more about me? Checkout my [Portfolio.](https://saurabh-pagrut-portfolio.netlify.app/)
 
 <br><br><br><br><br>
 <h3 align="center">👨🏻‍💻 Languages and Tools known 👨🏻‍💻</h3>
