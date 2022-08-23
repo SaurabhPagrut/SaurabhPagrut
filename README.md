@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/fekO5nGSrl3RJ885ch/giphy.gif" width="100%">
 <h1 align="center">Hey <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, My name’s Saurabh, I’m 22</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate java backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alter"Coder">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhpagrut&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhpagrut" /> </p>
 
