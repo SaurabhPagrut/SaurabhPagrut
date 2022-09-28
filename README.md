@@ -1,6 +1,7 @@
 <img src="https://media.giphy.com/media/fekO5nGSrl3RJ885ch/giphy.gif" width="100%">
 <h1 align="center">Hey <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, My name’s Saurabh, I’m 22</h1>
 <h3 align="center">A passionate java backend developer from India</h3>
+<h3>I am very passionate about coding and strongly interested in enhancing the product experience.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alter"Coder">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhpagrut&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhpagrut" /> </p>
 
@@ -13,6 +14,8 @@
 - 📄 Know about my experiences [See Resume.](https://drive.google.com/file/d/1Y24SJHLgP7A8x6ETVDe9gciS8pdbrtzP/view?usp=sharing)
 
 - 👨🏻‍🔧 Want to know more about me? Checkout my [Portfolio.](https://saurabh-pagrut-portfolio.netlify.app/)
+
+- 😌 My personal interest lies in playing piano 🎹, watching Sci-Fi movies and webseries 🎬.
 
 <br><br><br><br><br>
 <h3 align="center">👨🏻‍💻 Languages and Tools known 👨🏻‍💻</h3>
