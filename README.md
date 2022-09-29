@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [See Resume.](https://drive.google.com/file/d/1Y24SJHLgP7A8x6ETVDe9gciS8pdbrtzP/view?usp=sharing)
 
-- 👨🏻‍🔧 Want to know more about me? Checkout my [Portfolio.](https://saurabh-pagrut-portfolio.netlify.app/)
+- 👨🏻‍🔧 Want to know more about me? Checkout my [Portfolio.](https://saurabh-pagrut.netlify.app/)
 
 - 😌 My personal interest lies in playing piano 🎹, watching Sci-Fi movies and webseries 🎬.
 
