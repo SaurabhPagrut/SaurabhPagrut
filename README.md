@@ -79,10 +79,11 @@
 
  <h2>📊 My GitHub Stats 📊</h2>
 <br><br>
-
-
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=SaurabhPagrut&theme=dracula&column=6&margin-w=15&margin-h=15" alt="SaurabhPagrut" /></p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpagrut&theme=radical" alt="saurabhpagrut" width="47%"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=saurabhpagrut&show_icons=true&locale=en&theme=radical" alt="saurabhpagrut" width="47%"/><br><br><br><br><br><br><br><br><br><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhpagrut&show_icons=true&locale=en&theme=radical" alt="saurabhpagrut" width="29%"/><img align="right" src="https://activity-graph.herokuapp.com/graph?username=saurabhpagrut&bg_color=radical&area=true" width="65%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhpagrut&show_icons=true&locale=en&theme=radical" alt="saurabhpagrut" width="29%"/>
+<img align="right" src="https://activity-graph.herokuapp.com/graph?username=saurabhpagrut&bg_color=radical&area=true" width="65%"/>
 <p></p>
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
