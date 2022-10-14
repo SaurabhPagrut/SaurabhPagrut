@@ -6,9 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alter"Coder">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhpagrut&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhpagrut" /> </p>
 
-- 🌱 I’m currently learning **Java & SQL**
+- 🌱 I’m currently learning **SpringBoot, JPA & Hibernate**
 
-- 💬 Ask me about **HTML, CSS & JavaScript**
+- 💬 Ask me about **Java, SQL, HTML, CSS & JavaScript**
 
 - 📫 How to reach me **getsaurabhpagrut@gmail.com**
 
