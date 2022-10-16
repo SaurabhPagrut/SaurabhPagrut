@@ -21,7 +21,7 @@
 <br>
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
-### <h2>👨🏻‍💻 Tech Stack & Languages</h2>
+### <h2>Tech Stack & Languages 👨🏻‍💻</h2>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,20 +31,23 @@
 ![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=pink)<br><br>
 
 
-### <h2>🚀 Libraries & Frameworks 🚀</h2>
+### <h2>Libraries & Frameworks 🚀</h2>
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&logo=spring&color=852100&label=" alt="SPRING"/></a>
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&logo=springboot&color=00d09c&label=" alt="SpringBoot" /></a>
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&logo=hibernate&color=000030&label=" alt="Hibernate"/></a>
-<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&logo=JDBC&color=400030&label=" alt="JDBC"/></a><br><br>
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&logo=JDBC&color=400030&label=" alt="JDBC"/></a>
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&logo=netlify&color=orange&label=" alt="Netlify"/></a>
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=postman&logo=postman&color=black&label=" alt="Postman"/></a>
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=replit&logo=replit&color=black&label=" alt="Replit"/></a><br><br>
 
-### <h2>💻 Databases 💻</h2>
+### <h2>Databases 💻</h2>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br><br>
 
  
  
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
-<h2>📱 Let's Connect 📱</h2>
+<h2>Let's Connect 📱</h2>
 
 
 <p align="left">
@@ -69,15 +72,11 @@
     </a>
 </p>
 
-<br><br>
-
- 
- 
- 
+<br><br> 
 
 <!----------------------------------- Star Section ------------------------------------>
 
- <h2>📊 My GitHub Stats 📊</h2>
+ <h2>My GitHub Stats 📊</h2>
 <br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=SaurabhPagrut&theme=dracula&column=6&margin-w=15&margin-h=50" alt="SaurabhPagrut" /></p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpagrut&theme=radical" alt="saurabhpagrut" width="47%"/>
