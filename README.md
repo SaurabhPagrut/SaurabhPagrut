@@ -28,7 +28,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=pink)<br><br>
+![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=pink)
+<img src="https://img.shields.io/badge/-pink?style=for-the-badge&logo=C&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/++-white?style=for-the-badge&logo=C&logoColor=darkblue" alt="C++" /><br><br>
 
 
 ### <h2>Libraries & Frameworks 🚀</h2>
@@ -38,6 +40,7 @@
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&logo=JDBC&color=400030&label=" alt="JDBC"/></a>
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&logo=netlify&color=orange&label=" alt="Netlify"/></a>
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=postman&logo=postman&color=black&label=" alt="Postman"/></a>
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&logo=Swagger&color=darkblue&label=" alt="Swagger"/></a>
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=replit&logo=replit&color=black&label=" alt="Replit"/></a><br><br>
 
 ### <h2>Databases 💻</h2>
