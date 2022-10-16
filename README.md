@@ -73,6 +73,9 @@
     <a href="https://fb.com/saurabh.pagrut.9">
         <img align="center" src="https://img.shields.io/badge/facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="https://fb.com/saurabh.pagrut.9" />
     </a>
+    <a href="https://www.instagram.com/_.01.01.00._/">
+        <img align="center" src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=darkpink" alt="https://www.instagram.com/_.01.01.00._/" />
+    </a>
 </p>
 
 <br><br> 
