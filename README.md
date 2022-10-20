@@ -1,6 +1,12 @@
+<!----------------------------------- Home Section ------------------------------------>
+
 <img src="https://media.giphy.com/media/fekO5nGSrl3RJ885ch/giphy.gif" width="100%">
 <h1 align="center">Hey <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, My name’s Saurabh, I’m 22</h1>
 <h3 align="center">A passionate java backend developer from India</h3>
+
+
+
+<!----------------------------------- About Section ------------------------------------>
 
 <h4 align="center">I'm a solution driven Java Backend Developer skilled in Spring Boot & Hibernate. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a Java Backend developer. Love to work in a team.</h4>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alter"Coder">
@@ -19,6 +25,9 @@
 - 😌 My personal interest lies in playing piano 🎹, watching Sci-Fi movies and webseries 🎬.
 
 <br>
+
+
+
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 ### <h2>Tech Stack & Languages 👨🏻‍💻</h2>
@@ -33,6 +42,9 @@
 <img src="https://img.shields.io/badge/++-white?style=for-the-badge&logo=C&logoColor=darkblue" alt="C++" /><br><br>
 
 
+
+<!----------------------------------- Libraries & Frameworks Section ------------------------------------>
+
 ### <h2>Libraries & Frameworks 🚀</h2>
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&logo=spring&color=852100&label=" alt="SPRING"/></a>
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&logo=springboot&color=00d09c&label=" alt="SpringBoot" /></a>
@@ -42,6 +54,10 @@
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=postman&logo=postman&color=black&label=" alt="Postman"/></a>
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&logo=Swagger&color=darkblue&label=" alt="Swagger"/></a>
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=replit&logo=replit&color=black&label=" alt="Replit"/></a><br><br>
+
+
+
+<!----------------------------------- Database Section ------------------------------------>
 
 ### <h2>Databases 💻</h2>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br><br>
@@ -80,7 +96,9 @@
 
 <br><br> 
 
-<!----------------------------------- Star Section ------------------------------------>
+
+
+<!----------------------------------- GitHub Statistics Section ------------------------------------>
 
  <h2>My GitHub Stats 📊</h2>
 <br>
@@ -90,5 +108,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhpagrut&show_icons=true&locale=en&theme=radical" alt="saurabhpagrut" width="29%"/>
 <img align="right" src="https://activity-graph.herokuapp.com/graph?username=saurabhpagrut&bg_color=radical&area=true" width="65%"/>
 <p></p>
+
+
+<!----------------------------------- Footer Section ------------------------------------>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
