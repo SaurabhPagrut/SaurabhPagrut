@@ -5,7 +5,6 @@
 <h3 align="center">A passionate java backend developer from India</h3>
 
 
-
 <!----------------------------------- About Section ------------------------------------>
 
 <h4 align="center">I'm a solution driven Java Backend Developer skilled in Spring Boot & Hibernate. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a Java Backend developer. Love to work in a team.</h4>
@@ -27,7 +26,6 @@
 <br>
 
 
-
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 ### <h2>Tech Stack & Languages 👨🏻‍💻</h2>
@@ -40,7 +38,6 @@
 ![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=pink)
 <img src="https://img.shields.io/badge/-pink?style=for-the-badge&logo=C&logoColor=black" alt="C" />
 <img src="https://img.shields.io/badge/++-white?style=for-the-badge&logo=C&logoColor=darkblue" alt="C++" /><br><br>
-
 
 
 <!----------------------------------- Libraries & Frameworks Section ------------------------------------>
@@ -56,12 +53,10 @@
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=replit&logo=replit&color=black&label=" alt="Replit"/></a><br><br>
 
 
-
 <!----------------------------------- Database Section ------------------------------------>
 
 ### <h2>Databases 💻</h2>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br><br>
-
  
  
 <!----------------------------------- Social Media Links Section ------------------------------------>
@@ -95,7 +90,6 @@
 </p>
 
 <br><br> 
-
 
 
 <!----------------------------------- GitHub Statistics Section ------------------------------------>
