@@ -1,6 +1,6 @@
 <!----------------------------------- Home Section ------------------------------------>
 
-<img src="https://media.giphy.com/media/fekO5nGSrl3RJ885ch/giphy.gif" width="100%">
+<a href="https://github.com/SaurabhPagrut"><img src="https://media.giphy.com/media/fekO5nGSrl3RJ885ch/giphy.gif" width="100%"></a>
 <h1 align="center">Hey <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, My name’s Saurabh, I’m 22</h1>
 <h3 align="center">A passionate java backend developer from India</h3>
 
@@ -8,8 +8,8 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h4 align="center">I'm a solution driven Java Backend Developer skilled in Spring Boot & Hibernate. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a Java Backend developer. Love to work in a team.</h4>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alter"Coder">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhpagrut&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhpagrut" /> </p>
+<a href="https://github.com/SaurabhPagrut"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alter"Coder"></a>
+<p align="left"> <a href="https://github.com/SaurabhPagrut"><img src="https://komarev.com/ghpvc/?username=saurabhpagrut&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhpagrut" /></a> </p>
 
 - 🌱 I’m currently learning **SpringBoot, JPA & Hibernate**
 
@@ -29,35 +29,34 @@
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 ### <h2>Tech Stack & Languages 👨🏻‍💻</h2>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=pink)
-<img src="https://img.shields.io/badge/-pink?style=for-the-badge&logo=C&logoColor=black" alt="C" />
-<img src="https://img.shields.io/badge/++-white?style=for-the-badge&logo=C&logoColor=darkblue" alt="C++" /><br><br>
-
+<a href="https://github.com/SaurabhPagrut" ><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
+<a href="https://github.com/SaurabhPagrut" ><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+<a href="https://github.com/SaurabhPagrut" ><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
+<a href="https://github.com/SaurabhPagrut"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
+<a href="https://github.com/SaurabhPagrut"><img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white" alt="github" /></a>
+<a href="https://github.com/SaurabhPagrut"><img src="https://img.shields.io/badge/GitHub-f44d27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/SaurabhPagrut"><img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=pink" alt="Node.js"/></a>
+<a href="https://github.com/SaurabhPagrut"><img src="https://img.shields.io/badge/-pink?style=for-the-badge&logo=C&logoColor=black" alt="C"/></a>
+<a href="https://github.com/SaurabhPagrut"><img src="https://img.shields.io/badge/++-white?style=for-the-badge&logo=C&logoColor=darkblue" alt="C++"/></a><br><br>
 
 <!----------------------------------- Libraries & Frameworks Section ------------------------------------>
 
 ### <h2>Libraries & Frameworks 🚀</h2>
-<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&logo=spring&color=852100&label=" alt="SPRING"/></a>
-<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&logo=springboot&color=00d09c&label=" alt="SpringBoot" /></a>
-<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&logo=hibernate&color=000030&label=" alt="Hibernate"/></a>
-<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&logo=JDBC&color=400030&label=" alt="JDBC"/></a>
-<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&logo=netlify&color=orange&label=" alt="Netlify"/></a>
-<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=postman&logo=postman&color=black&label=" alt="Postman"/></a>
-<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&logo=Swagger&color=darkblue&label=" alt="Swagger"/></a>
-<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=replit&logo=replit&color=black&label=" alt="Replit"/></a><br><br>
+<a href="https://github.com/SaurabhPagrut" ><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&logo=spring&color=852100&label=" alt="SPRING"/></a>
+<a href="https://github.com/SaurabhPagrut" ><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&logo=springboot&color=00d09c&label=" alt="SpringBoot" /></a>
+<a href="https://github.com/SaurabhPagrut" ><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&logo=hibernate&color=000030&label=" alt="Hibernate"/></a>
+<a href="https://github.com/SaurabhPagrut"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&logo=JDBC&color=400030&label=" alt="JDBC"/></a>
+<a href="https://github.com/SaurabhPagrut"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&logo=netlify&color=orange&label=" alt="Netlify"/></a>
+<a href="https://github.com/SaurabhPagrut"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=postman&logo=postman&color=black&label=" alt="Postman"/></a>
+<a href="https://github.com/SaurabhPagrut"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&logo=Swagger&color=darkblue&label=" alt="Swagger"/></a>
+<a href="https://github.com/SaurabhPagrut"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=replit&logo=replit&color=black&label=" alt="Replit"/></a><br><br>
 
 
 <!----------------------------------- Database Section ------------------------------------>
 
 ### <h2>Databases 💻</h2>
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br><br>
- 
+<a href="https://github.com/SaurabhPagrut"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue" alt="MySQL"/></a><br><br>
+
  
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
@@ -93,17 +92,17 @@
 
 
 <!----------------------------------- GitHub Statistics Section ------------------------------------>
-
- <h2>My GitHub Stats 📊</h2>
+<a href="https://github.com/SaurabhPagrut">
+<h2>My GitHub Stats 📊</h2>
 <br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=SaurabhPagrut&theme=dracula&column=6&margin-w=15&margin-h=50" alt="SaurabhPagrut" /></p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpagrut&theme=radical" alt="saurabhpagrut" width="47%"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=saurabhpagrut&show_icons=true&locale=en&theme=radical" alt="saurabhpagrut" width="47%"/><br><br><br><br><br><br><br><br><br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhpagrut&show_icons=true&locale=en&theme=radical" alt="saurabhpagrut" width="29%"/>
 <img align="right" src="https://activity-graph.herokuapp.com/graph?username=saurabhpagrut&bg_color=radical&area=true" width="65%"/>
-<p></p>
+<p></p></a>
 
 
 <!----------------------------------- Footer Section ------------------------------------>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
+<a href="https://github.com/SaurabhPagrut"><img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"></a>
