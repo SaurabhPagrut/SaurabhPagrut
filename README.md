@@ -36,8 +36,9 @@
 <a href="#"><img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white" alt="github" /></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-f44d27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="#"><img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=pink" alt="Node.js"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-pink?style=for-the-badge&logo=C&logoColor=black" alt="C"/></a>
-<a href="#"><img src="https://img.shields.io/badge/++-white?style=for-the-badge&logo=C&logoColor=darkblue" alt="C++"/></a><br><br>
+<a href="#"><img src="https://img.shields.io/badge/-pink?style=for-the-badge&logo=c&logoColor=black" alt="C"/></a>
+<a href="#"><img src="https://img.shields.io/badge/C++-white?style=for-the-badge&logo=c++&logoColor=darkblue" alt="C++"/></a>
+<a href="#"><img src="https://img.shields.io/badge/php-pink?style=for-the-badge&logo=php&logoColor=black" alt="php"/></a><br><br>
 
 <!----------------------------------- Libraries & Frameworks Section ------------------------------------>
 
