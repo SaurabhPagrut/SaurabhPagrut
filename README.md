@@ -1,7 +1,7 @@
 <!----------------------------------- Home Section ------------------------------------>
 
 <a href="https://github.com/SaurabhPagrut"><img src="https://media.giphy.com/media/fekO5nGSrl3RJ885ch/giphy.gif" width="100%"></a>
-<h1 align="center">Hey <a href="#"><img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></a>, My name’s Saurabh, I’m 22</h1>
+<h1 align="center">Hey, My name’s Saurabh, I’m 22</h1>
 <h3 align="center">A passionate java backend developer from India</h3>
 
 
@@ -98,15 +98,16 @@
 <a href="#">
 <h2>My GitHub Stats 📊</h2>
 <br>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=SaurabhPagrut&theme=dracula&column=6&margin-w=15&margin-h=50" alt="SaurabhPagrut" /></p>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpagrut&theme=radical" alt="saurabhpagrut" width="47%"/>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=SaurabhPagrut&theme=dracula&column=6&margin-w=15&margin-h=50" alt="SaurabhPagrut" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpagrut&theme=radical" alt="saurabhpagrut"/>
+<p></p></a> 
+<!-- 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=saurabhpagrut&show_icons=true&locale=en&theme=radical" alt="saurabhpagrut" width="47%"/><br><br><br><br><br><br><br><br><br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhpagrut&show_icons=true&locale=en&theme=radical" alt="saurabhpagrut" width="29%"/>
 <img align="right" src="https://activity-graph.herokuapp.com/graph?username=saurabhpagrut&bg_color=radical&area=true" width="65%"/>
 <p></p></a>
 
 
-<!----------------------------------- Footer Section ------------------------------------>
+--------------------------------- Footer Section ----------------------------------
 
-<a href="#"><img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"></a>
-
+<a href="#"><img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"></a> -->
