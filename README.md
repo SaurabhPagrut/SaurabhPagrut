@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **getsaurabhpagrut@gmail.com**
 
-- 📄 Know about my experiences [See Resume.](https://drive.google.com/file/d/1Y24SJHLgP7A8x6ETVDe9gciS8pdbrtzP/view?usp=sharing)
+- 📄 Know about my experiences [See Resume.](https://drive.google.com/file/d/1WGA5_ymja5ZCSkqb7me2hJu4HKeDQEfx/view?usp=sharing)
 
 - 👨🏻‍🔧 Want to know more about me? Checkout my [Portfolio.](https://saurabh-pagrut-portfolio.netlify.app/)
 
