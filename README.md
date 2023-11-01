@@ -6,7 +6,7 @@
 
 
 <!----------------------------------- About Section ------------------------------------>
-
+ 
 <h4 align="center">I'm a solution driven Java Backend Developer skilled in Spring Boot & Hibernate. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a Java Backend developer. Love to work in a team.</h4>
 <a href="#"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alter"Coder"></a>
 <p align="left"> <a href="#"><img src="https://komarev.com/ghpvc/?username=saurabhpagrut&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhpagrut" /></a> </p>
